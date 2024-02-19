@@ -3080,11 +3080,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\user\\OneDrive\\Desktop\\React Dotnet\\WebAPI\\webapi.csproj",
+      "projectUniqueName": "C:\\Users\\user\\OneDrive\\Desktop\\dotnet deployment\\Dotnet-Deployment\\Dotnet-Deployment\\webapi.csproj",
       "projectName": "webapi",
-      "projectPath": "C:\\Users\\user\\OneDrive\\Desktop\\React Dotnet\\WebAPI\\webapi.csproj",
+      "projectPath": "C:\\Users\\user\\OneDrive\\Desktop\\dotnet deployment\\Dotnet-Deployment\\Dotnet-Deployment\\webapi.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\user\\OneDrive\\Desktop\\React Dotnet\\WebAPI\\obj\\",
+      "outputPath": "C:\\Users\\user\\OneDrive\\Desktop\\dotnet deployment\\Dotnet-Deployment\\Dotnet-Deployment\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
