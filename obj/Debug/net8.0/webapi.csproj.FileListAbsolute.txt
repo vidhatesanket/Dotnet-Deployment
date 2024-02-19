@@ -348,3 +348,4 @@ C:\Users\user\OneDrive\Desktop\dotnet deployment\Dotnet-Deployment\Dotnet-Deploy
 C:\Users\user\OneDrive\Desktop\dotnet deployment\Dotnet-Deployment\Dotnet-Deployment\obj\Debug\net8.0\webapi.pdb
 C:\Users\user\OneDrive\Desktop\dotnet deployment\Dotnet-Deployment\Dotnet-Deployment\obj\Debug\net8.0\webapi.genruntimeconfig.cache
 C:\Users\user\OneDrive\Desktop\dotnet deployment\Dotnet-Deployment\Dotnet-Deployment\obj\Debug\net8.0\ref\webapi.dll
+C:\Users\user\OneDrive\Desktop\dotnet deployment\Dotnet-Deployment\Dotnet-Deployment\bin\Debug\net8.0\railway.json
